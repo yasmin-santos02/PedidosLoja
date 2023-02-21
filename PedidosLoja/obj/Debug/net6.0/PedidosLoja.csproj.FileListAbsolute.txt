@@ -1,0 +1,15 @@
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.csproj.AssemblyReference.cache
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.AssemblyInfoInputs.cache
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.AssemblyInfo.cs
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.csproj.CoreCompileInputs.cache
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\bin\Debug\net6.0\PedidosLoja.exe
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\bin\Debug\net6.0\PedidosLoja.deps.json
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\bin\Debug\net6.0\PedidosLoja.runtimeconfig.json
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\bin\Debug\net6.0\PedidosLoja.dll
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\bin\Debug\net6.0\PedidosLoja.pdb
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.dll
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\refint\PedidosLoja.dll
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.pdb
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\PedidosLoja.genruntimeconfig.cache
+C:\Users\yasmi\Documents\Projetos\PedidosLoja\PedidosLoja\obj\Debug\net6.0\ref\PedidosLoja.dll
